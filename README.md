@@ -23,3 +23,10 @@ classDiagram
         +adicionarNovaAba()
         +atualizarPagina()
     }
+
+    class iPhone {
+    }
+
+    iPhone --> ReprodutorMusical
+    iPhone --> AparelhoTelefonico
+    iPhone --> NavegadorInternet
