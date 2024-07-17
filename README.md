@@ -1,6 +1,6 @@
 # Modelando-um-Iphone
 
-# Diagrama UML das Funcionalidades
+# Diagrama UML das Funcionalidades de um Iphone
 
 ## Reprodutor Musical, Aparelho Telefônico, e Navegador na Internet
 
