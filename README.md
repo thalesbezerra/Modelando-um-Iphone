@@ -1,5 +1,10 @@
 # Modelando-um-Iphone
 
+# Diagrama UML das Funcionalidades
+
+## Reprodutor Musical, Aparelho Telefônico, e Navegador na Internet
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
@@ -18,10 +23,3 @@ classDiagram
         +adicionarNovaAba()
         +atualizarPagina()
     }
-
-    class iPhone {
-    }
-
-    iPhone --> ReprodutorMusical
-    iPhone --> AparelhoTelefonico
-    iPhone --> NavegadorInternet
